@@ -11,3 +11,5 @@ git status
 
 git add .
 git add GitandGithub
+git commit -m "Commit Message"
+git push
