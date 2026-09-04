@@ -1,0 +1,13 @@
+git config --global user.name "vEEr228"
+git config --global user.email "veerjayant1@gmail.com"
+git config --global color.ui auto
+
+Mandatorry commands
+git init
+git remote add orign https://github.com/vEEr228/Git_Demo.git
+
+git pull origin main
+git status
+
+git add .
+git add GitandGithub
