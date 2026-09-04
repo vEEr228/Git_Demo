@@ -1,0 +1,4 @@
+--seperate branch : day1Branch
+
+create a new branch
+igt checkout -b "branchname"
